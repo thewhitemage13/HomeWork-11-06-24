@@ -1,0 +1,14 @@
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\bin\Debug\net8.0\Home Work C# 11.06.24.exe
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\bin\Debug\net8.0\Home Work C# 11.06.24.deps.json
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\bin\Debug\net8.0\Home Work C# 11.06.24.runtimeconfig.json
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\bin\Debug\net8.0\Home Work C# 11.06.24.dll
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\bin\Debug\net8.0\Home Work C# 11.06.24.pdb
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\obj\Debug\net8.0\Home Work C# 11.06.24.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\obj\Debug\net8.0\Home Work C# 11.06.24.AssemblyInfoInputs.cache
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\obj\Debug\net8.0\Home Work C# 11.06.24.AssemblyInfo.cs
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\obj\Debug\net8.0\Home Work C# 11.06.24.csproj.CoreCompileInputs.cache
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\obj\Debug\net8.0\Home Work C# 11.06.24.dll
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\obj\Debug\net8.0\refint\Home Work C# 11.06.24.dll
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\obj\Debug\net8.0\Home Work C# 11.06.24.pdb
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\obj\Debug\net8.0\Home Work C# 11.06.24.genruntimeconfig.cache
+D:\C++\CLASS WORK\Home Work C# 11.06.24\Home Work C# 11.06.24\obj\Debug\net8.0\ref\Home Work C# 11.06.24.dll
